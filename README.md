@@ -28,7 +28,7 @@ I then developed a coding test to see how we individually met the codebook, in t
 With one more round of iteration, we achieved _'very good'_ (0.81).  
 
 ## What I Learned
-I learned that collaborative work involving annotation can go beyond arguments of subjective interpretation and can be quantitatively supported. Especially where few ideas are rejected early on, an iterative process of annotation or coding that is supported by mathematical tests can ensure that the best ideas are retained and refined. It also helps to cohere the team, in the sense that all ideas are seen as valued and tested.
+I learned that collaborative work involving annotation can go beyond arguments of subjective interpretation and can be quantitatively supported. Especially where few ideas are rejected early on, an iterative process of annotation or coding that is supported by mathematical tests can ensure that the best ideas are retained and refined. It also helps to cohere the team, in the sense that all ideas are seen as valued and subject to tests.
 
 ## Skills Used
 * Qualitative Methods
