@@ -19,7 +19,7 @@ Codebook entries eventually looked like this:
 > 
 > _“This research has been recognized and endorsed by the Office of the Research Ethics Commission in the people of Mahidol University. COA No. MU-CIRB 2018/018.1901.”_ (Pruettikomon 2018)
 > ## Justification
-> Help can be an implicitly meaningful mandate or action-premise. Help can also be instrumentally enrolled for its social-positivity. It is thus important to parse the economic drivers of research in assistive technology, that may enroll help-premises and inform the normate around disability. 
+> Help can be an implicitly meaningful mandate or action-premise. Help can also be instrumentally enrolled for its social-positivity. It is thus important to parse the economic drivers that may enroll help-premises and inform the normate around disabilityof in assistive technology research. 
 
 After the convening period, the team coded the rest of the corpus documents and re-coded the first 20 documents according to the reference codebook. We used a qualitative analysis software for this.
 
